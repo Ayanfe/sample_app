@@ -1,8 +1,11 @@
 # Ruby on Rails Tutorial: sample application
+#### This is my first Rails project
+[Sample App](https://iaks-tweets.herokuapp.com)
 
-This is the sample application for the
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+Actually I am using this to practice writing README's
+I didn't know how before
 
-** This is my first full and live rails application**
+But from now on I'll be very professional 
+
+> New apps are comming soon
+> Very Soon
