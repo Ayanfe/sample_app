@@ -1,11 +1,47 @@
-# Ruby on Rails Tutorial: sample application
-#### This is my first Rails project
-[Sample App](https://iaks-tweets.herokuapp.com)
+# BBCM website
 
-Actually I am using this to practice writing README's
-I didn't know how before
+### Controllers and Actions
+1. Pages
+  * index
+  * contact
+  * about
 
-But from now on I'll be very professional 
+2. Images
+  * index
+  * show
+  * new
+  * create
+  * edit
+  * update
+  * destroy
 
-> New apps are comming soon
-> Very Soon
+3. Messages
+  * index
+  * show
+  * new
+  * create
+  * edit
+  * update
+  * destroy
+
+4. Announcements
+  * index
+  * show
+  * new
+  * create
+  * edit
+  * update
+  * destroy
+
+5. Subscribers
+  * new
+  * create
+  * destroy
+
+6. Slides
+  * index
+  * new
+  * create
+  * edit
+  * update
+  * destroy
