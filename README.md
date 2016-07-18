@@ -53,3 +53,34 @@ This site is meant to:
   * update
   * destroy
 
+### Models
+1. Image
+  * image
+  * event
+  * people
+
+2. Message
+  * media
+  * content_type
+  * poster
+  * desc
+  * title
+
+3. Announcement
+  * title
+  * content
+  * expires_at
+
+4. Subscriber
+  * name
+  * email
+
+5. Slide
+  * image
+  * title
+
+### Todo
+  - [ ] Style Admin
+  - [ ] Prepare site for hosting
+  - [ ] Setup hosting
+  - [ ] Host
