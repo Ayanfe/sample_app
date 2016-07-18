@@ -1,5 +1,12 @@
 # BBCM website
 
+### Purpose
+This site is meant to:
+ * provide a means for BBCM to share their messages and images with a larger audience.
+ * provide a platform through which BBCM may be contacted
+ * provide a means by which BBCM may make announcements easily
+ * draw more individuals to wirship with BBCM
+
 ### Controllers and Actions
 1. Pages
   * index
@@ -45,3 +52,4 @@
   * edit
   * update
   * destroy
+
